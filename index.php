@@ -2,6 +2,7 @@
 <html>
 <head>
     <!-- Load file CSS Bootstrap -->
+    <title>Multiple Delete - Alif Fikry</title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <!-- Load file JS -->
     <script src="js/jquery-3.4.1.js"></script>
